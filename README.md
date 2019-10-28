@@ -1,2 +1,5 @@
-# nlp_class
-리드미 테스트입니다.
+# nlp_class: 공부하는 
+
+
+* 자연어 처리(NLP)
+* Deep Learning
